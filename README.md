@@ -11,3 +11,6 @@ Now, considering same scenario as above, if n = 5, then based on inland’s degr
 
 <img src="/assets/Picture2.png" 
 class="center"/>
+
+### Disclaimar:
+PreprocessAmazonBooks.py included in the repo is part of the course CS509 - Arizona State University. The author of this repo does not wish to take credit for PreprocessAmazonBooks.py code.
